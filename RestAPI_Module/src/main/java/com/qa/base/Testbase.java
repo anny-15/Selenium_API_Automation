@@ -6,7 +6,7 @@ import java.util.Properties;
 
 public class Testbase {
 
-	protected Properties prop;
+	public Properties prop;
 	
 	public  Testbase()
 	{
